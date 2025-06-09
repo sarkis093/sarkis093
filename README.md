@@ -21,3 +21,4 @@
 **PowerShell Projects:**
 <br>
 <a href="https://github.com/sarkis093/powershell-data-exfiltration">PowerShell Data Exfiltration</a> |
+<a href="https://github.com/sarkis093/Powershell-Tips-and-Tricks">Powershell Tips and Tricks</a> |
